@@ -5,7 +5,7 @@
      from which Ant executes the requested task.  This is normally
      set to the current working directory.
 -->
-
+<!--test for pulling hithub-->
 <project name="WebGoat" default="compile" basedir=".">
 
 <!-- ===================== Property Definitions =========================== -->
