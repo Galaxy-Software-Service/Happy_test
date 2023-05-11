@@ -6,6 +6,8 @@
      set to the current working directory.
 -->
 
+<!-- =====================  =========================== -->
+
 <project name="WebGoat" default="compile" basedir=".">
 
 <!-- ===================== Property Definitions =========================== -->
